@@ -10,6 +10,7 @@
 - Lerin, Mikaella M.
 
 **Instructions**
+
 If you run the code/program, The first thing that will pop out is the log in panel, In which it will ask you to log in or sign up. The system will also identify if you are an admin or a user, If the system recognizes you as the admin/owner you will be able to edit the stacks, doctor's name, patient's name and etc.
 
 After you log in, you will be see the dashboard. This is the first thing you will see after you logged in. As it's main use is to give the user/admin a quick look and easy access to important features of the system.
